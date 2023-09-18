@@ -3,7 +3,6 @@
 ## 🌸 My Name is Lysa Hannes! 🦕
 
 ## ✍️ I am Currently:
-#### - Working as a Low Code Developer Co-op Student for the Ontario Ministry of Government and Consumer Services
 #### - A Computer Science and Business Student at Brock University
 
 ## 👩‍💻Technology and Tools I have used:
