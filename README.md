@@ -6,13 +6,13 @@ I Just graduated from Brock University with a backelors of Computer Science and 
 
 ## ✍️ I am Currently:
 #### Looking for a full time job!
- ####        Interests include:
- ####         - MERN Stack Developer
- ####         - UI/UX Design
- ####         - Backend Developemt
- ####         - Database Management
- ####         - Web Development
- ####         - Marketing
+      Interests include:
+        - MERN Stack Developer
+        - UI/UX Design
+        - Backend Developemt
+        - Database Management
+        - Web Development
+        - Marketing
           
 
 ## 👩‍💻Technology and Tools I have used:
