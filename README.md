@@ -2,7 +2,7 @@
 
 ## 🌸 My Name is Lysa Hannes! 🦕
 
-I Just graduated from Brock University with a backelors of Computer Science and Business!
+I Just graduated from Brock University with a Bachelor's of Computer Science and Business!
 
 ## ✍️ I am Currently:
 #### Looking for a full time job!
